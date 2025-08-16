@@ -1,5 +1,4 @@
-let num = 15
-;
+let num = 15;
 // 変数のnumの値を出力する（確認用）
 console.log(num);
 
@@ -16,5 +15,6 @@ else if (num % 5 === 0) {
 }
 
 else {
-    console.log(num)
+    console.log(num);
 }
+
