@@ -1,4 +1,4 @@
-const today = new Date("2025-08-17");
+const today = new Date();
 
 const year = today.getFullYear();
 
@@ -9,3 +9,4 @@ const day = today.getDate();
 const dateString = `${year}年${month}月${day}日`; //テンプレートリテラル
 
 console.log(dateString);
+
